@@ -1,3 +1,7 @@
 gjsdbbjsdbavjzbsjvbjkCs 
 svkdkvnkd
+<<<<<<< HEAD
 tete
+=======
+csvsv
+>>>>>>> e0194e5
